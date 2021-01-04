@@ -1,0 +1,15 @@
+mx.uam.ayd.proyecto
+mx.uam.ayd.proyecto.datos
+mx.uam.ayd.proyecto.negocio
+mx.uam.ayd.proyecto.negocio.modelo
+mx.uam.ayd.proyecto.presentacion.agregarProducto
+mx.uam.ayd.proyecto.presentacion.caja
+mx.uam.ayd.proyecto.presentacion.cerrarMesa
+mx.uam.ayd.proyecto.presentacion.cocina
+mx.uam.ayd.proyecto.presentacion.informeInventario
+mx.uam.ayd.proyecto.presentacion.inventarioCocina
+mx.uam.ayd.proyecto.presentacion.mesas
+mx.uam.ayd.proyecto.presentacion.modificarProducto
+mx.uam.ayd.proyecto.presentacion.principal
+mx.uam.ayd.proyecto.presentacion.realizarPedido
+mx.uam.ayd.proyecto.presentacion.registrarOrden
